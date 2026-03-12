@@ -1,149 +1,145 @@
-# Responsive Dashboard Project
+# 🌐 Responsive Dashboard Project
 
-This project is a fully responsive dashboard created using HTML and CSS. The dashboard consists of 8 pages, each featuring a sliding bar that contains options that allow the user to navigate through different sections seamlessly. The layout is designed to be responsive across various devices, ensuring a smooth user experience on desktops, tablets, and smartphones.
+A **fully responsive dashboard** built with **HTML & CSS**, designed to provide a seamless user experience across **desktop, tablet, and mobile devices**.  
+The dashboard includes **8 pages** with a sliding navigation bar, making it easy to navigate between sections and manage content dynamically.
 
-## Demo:
+---
 
-### https://yousifadel170.github.io/Dashboard-template/
+## 🔗 Live Demo
 
-## Pages Overview
+[View Live Demo](https://youssefadel170.github.io/Dashboard-template/)
 
-### Dashboard:
+---
 
-The first page of the dashboard that provides an overview of the system with various sections such as:
+## 🗂 Pages Overview
 
-##### Welcome
+### 1️⃣ Dashboard
 
-##### Quick Draft
+Provides an overview of the system:
 
-##### Yearly Targets
+- Welcome
+- Quick Draft
+- Yearly Targets
+- Tickets Statistics
+- Latest News & Tasks
+- Top Search Items & Uploads
+- Last Project Progress & Reminders
+- Social Media Stats & Projects
 
-##### Tickets Statistics
+### 2️⃣ Settings
 
-##### Latest News
+Manage your application settings:
 
-##### Latest Tasks
+- Site Control
+- General Info
+- Security Info
+- Social Info
+- Widgets Info
+- Backup Manager
 
-##### Top Search Items
+### 3️⃣ Profile
 
-##### Latest Uploads
+Displays user profile and activity:
 
-##### Last Project Progress
+- Profile Section
+- Skills & Activities
 
-##### Reminders
+### 4️⃣ Projects
 
-##### Latest Posts
+Shows 9 different project details.
 
-##### Social Media Stats
+### 5️⃣ Courses
 
-##### Projects
+Displays 7 course sections.
 
-### Settings:
+### 6️⃣ Friends
 
-This page contains various configuration sections such as:
+Friends list with:
 
-##### Site Control
+- Name & Title
+- Number of Friends
+- Projects & Articles
+- Joined Date
 
-##### General Info
+### 7️⃣ Files
 
-##### Security Info
+Organize and view various file types.
 
-##### Social Info
+### 8️⃣ Plans
 
-##### Widgets Info
+Pricing options:
 
-##### Backup Manager
+- Free Plan
+- Basic Plan
+- Premium Plan
 
-### Profile:
+---
 
-The profile page showcases the following sections:
+## ✨ Key Features
 
-##### Profile Section
+- **Responsive Design**: Works flawlessly on desktops, tablets, and mobile devices
+- **Sliding Navigation Bar**: Smooth transitions between pages
+- **Customizable Sections**: Easily manage content for projects, courses, friends, etc.
+- **User-Friendly Interface**: Clean, modern, and intuitive design
 
-##### Skills
+---
 
-##### Activities
+## 🛠 Technologies Used
 
-### Projects:
+- **HTML5**: Page structure
+- **CSS3**: Styling & responsive layouts
+  - Flexbox & Grid for flexible layouts
+  - Media Queries for cross-device compatibility
 
-The projects page consists of 9 different project sections, each displaying details about a specific project.
+---
 
-### Courses:
+## 🖼 Screenshots
 
-This page includes 7 different course sections, each representing a different course.
+### 💻 Desktop Views
 
-### Friends:
+- **Dashboard Pages:**  
+  ![Dashboard 1](./screenshots/dashboard-1.jpg)  
+  ![Dashboard 2](./screenshots/dashboard-2.jpg)  
+  ![Dashboard 3](./screenshots/dashboard-3.jpg)
 
-The friends page displays a list of friends with the following details:
+- **Settings Page:**  
+  ![Settings](./screenshots/settings.jpg)
 
-#### Name
+- **Profile Page:**  
+  ![Profile](./screenshots/profile.jpg)
 
-#### Title
+- **Projects Page:**  
+  ![Projects](./screenshots/projects.jpg)
 
-#### Number of Friends
+- **Courses Page:**  
+  ![Courses](./screenshots/courses.jpg)
 
-#### Projects
+- **Friends Page:**  
+  ![Friends](./screenshots/friends.jpg)
 
-#### Articles
+- **Files Page:**  
+  ![Files](./screenshots/files.jpg)
 
-#### Joined Date
+- **Plans Page:**  
+  ![Plans](./screenshots/plans.jpg)
 
-### Files:
+### 📱 Mobile View
 
-The files page includes sections for various types of files.
+- **Dashboard on Mobile:**  
+  ![Dashboard Mobile](./screenshots/dashboard-mobile.png)
 
-### Plans:
+---
 
-This page includes 3 different pricing plans:
+## 🚀 Installation
 
-#### Free Plan
+1. **Clone the repository**
 
-#### Basic Plan
+```bash
+git clone https://github.com/YoussefAdel170/Dashboard-template.git
+```
 
-#### Premium Plan
-
-## Key Features
-
-### Responsive Design:
-
-The layout adapts to different screen sizes, making it suitable for desktop, tablet, and mobile devices.
-
-### Sliding Navigation Bar:
-
-A sliding bar is included on each page, providing a smooth way to navigate through various sections.
-
-### Customizable Sections:
-
-Each page contains dynamic sections (such as profile, projects, friends, etc.) for easy data management and display.
-
-### User-Friendly Interface:
-
-Simple and clean design that prioritizes user experience and easy navigation.
-
-## Technologies Used
-
-### HTML: Structure of the web pages.
-
-### CSS: Styling of the layout and responsiveness.
-
-#### Flexbox & Grid: Layout techniques used for responsive design and aligning content in different sections.
-
-#### Media Queries: Ensures the layout is fully responsive across different screen sizes.
-
-## Installation
-
-### 1. Clone the repository or download the files.
-
-### 2. Open the index.html file in your preferred browser to see the project in action.
-
-## Usage
-
-### Open the index.html file to load the dashboard.
-
-### Use the sliding navigation bar to navigate between the different pages of the dashboard.
-
-### Each page will contain relevant sections like projects, settings, or friends as described above.
-
-## License
-
-This project is open-source and free to use.
+2. **Navigate into the project directory**
+   ```bash
+   cd Dashboard-template
+   ```
+3. Open **index.html** in your browser.
